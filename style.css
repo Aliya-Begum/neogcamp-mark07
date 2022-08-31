@@ -69,14 +69,9 @@ textarea {
     overflow-y: scroll;
 }
 
-footer {
+.footer {
     height: 24vh;
     background-color: rgba(192, 192, 192, 0.4);
-    width: 100%;
-}
-
-.footer {
-
     display: block;
     margin: auto;
     width: 100%;
@@ -88,6 +83,10 @@ footer {
 }
 
 .footer-para {
+    /* text-align: center;
+    margin: 0 26%; */
+    display: block;
+    margin: auto;
+    width: 60%;
     text-align: center;
-    margin: 0 26%;
 }
