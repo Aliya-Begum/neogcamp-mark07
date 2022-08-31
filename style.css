@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&family=Grape+Nuts&family=Montserrat:wght@400;700&family=Nunito&display=swap');
 
-body{
+body {
     font-family: 'Gochi Hand', cursive;
     background-image: url(/img/bg1.jfif);
     background-repeat: no-repeat;
@@ -8,28 +8,33 @@ body{
     height: 100%;
     margin: 0;
 }
-::placeholder{
+
+::placeholder {
     color: black;
     opacity: 0.6;
     padding: 0 0.5rem;
-    font-family: 'Gochi Hand', cursive; ;
+    font-family: 'Gochi Hand', cursive;
+    ;
 }
 
-.nav{
+.nav {
     height: 15vh;
-    background-color:rgba(192,192,192,0.3);
+    background-color: rgba(192, 192, 192, 0.3);
 }
-.nav-header{
+
+.nav-header {
     margin-top: 0%;
     text-align: center;
     padding: 1rem 0;
     font-weight: bolder;
     font-size: 40px;
 }
-.input-div{
+
+.input-div {
     margin: 2rem;
 }
-textarea{
+
+textarea {
     height: 13vh;
     background: transparent;
     border: 3px solid black;
@@ -40,7 +45,7 @@ textarea{
 }
 
 
-.btn-translate{
+.btn-translate {
     font-family: 'Gochi Hand', cursive;
     font-size: 17px;
     background-color: black;
@@ -52,9 +57,10 @@ textarea{
     margin-bottom: 2rem;
     padding: 1rem;
     border-radius: 1rem;
-    
+
 }
-.output-div{
+
+.output-div {
     height: 16vh;
     border: 3px solid black;
     display: block;
@@ -62,22 +68,26 @@ textarea{
     width: 48%;
     overflow-y: scroll;
 }
-footer{
+
+footer {
     height: 24vh;
-    background-color:rgba(192,192,192,0.4);
+    background-color: rgba(192, 192, 192, 0.4);
     width: 100%;
 }
-.footer{
-    
+
+.footer {
+
     display: block;
     margin: auto;
     width: 100%;
 }
-.footer-header{
+
+.footer-header {
     text-align: center;
     padding-top: 1rem;
 }
-.footer-para{
+
+.footer-para {
     text-align: center;
     margin: 0 26%;
 }
