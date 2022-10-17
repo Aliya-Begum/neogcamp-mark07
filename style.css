@@ -41,6 +41,7 @@ textarea {
 
 
 .btn-translate {
+    cursor: pointer;
     font-family: 'Gochi Hand', cursive;
     font-size: 17px;
     background-color: black;
