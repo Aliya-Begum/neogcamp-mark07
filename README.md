@@ -11,7 +11,7 @@ https://neogcamp-jive-speak.netlify.app/
 * HTML
 * CSS
 * Javascript
-* 
+
 ## How to use this website:
 
 a. Enter the text you want to translate.
